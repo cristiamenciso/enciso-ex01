@@ -2,7 +2,7 @@ package exercise01;
 
 /*
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
- *  Copyright 2021 first_name last_name
+ *  Copyright 2021 Cristiam Enciso
  */
 /*
 Exercise 1 - Saying Hello
